@@ -1,2 +1,6 @@
-# sadbackdoor
-Simple backdoor en HTML y PHP, permite ejecutar una reverse shell en bash
+# sadbackdoor:(
+
+Sad backdoor, un backdoor simple y rápido
+
+Sad backdoor es un backdoor sencillo escrito en HTML y PHP.
+
