@@ -2,7 +2,7 @@
 
 "Sad-backdoor, a simple and fast web backdoor"
 
-# Descripción
+# Description
 
 Sad-backdoor is a simple web backdoor written in HTML and PHP.
 This allows you to run a reverse shell with bash inside the compromised machine.
