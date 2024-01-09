@@ -18,7 +18,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     }
 } else {
 
-    header('Location: sadackdoor.html');
+    header('Location: sadckdoor.html');
     exit();
 }
 ?>
