@@ -1,7 +1,7 @@
 <?php
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
-    $primercampo = $_POST['ip'];
-    $segundocampo = $_POST['port'];
+    $ip = $_POST['ip'];
+    $port = $_POST['port'];
 
   
     if (!empty($ip) && !empty($port)) {
